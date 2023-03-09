@@ -6,5 +6,4 @@ To run this application, simply enter a password as a command-line argument, mak
 
 - Must contain at least three of: lowercase letters, uppercase letters, numbers, symbols
 
-Entering a valid password will display how many of each type of character are present in the password.
-Entering an invalid password will exit the program and display an error message.
+After entering a password, a count of each type of character will be displayed. Invalid passwords will display an error message and exit the program.
